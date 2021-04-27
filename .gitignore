@@ -1,3 +1,6 @@
+#draw
+*.draw
+
 # Logs
 logs
 *.log
